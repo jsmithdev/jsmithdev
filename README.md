@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![gif](https://github.githubassets.com/images/mona-whisper.gif)
+# Hi there 👋 ![gif](https://github.githubassets.com/images/mona-whisper.gif)
 
 <!-- ![genie beanie](https://i.imgur.com/myAHVLP.jpg) -->
 
