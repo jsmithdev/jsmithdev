@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![gif](https://github.githubassets.com/images/mona-whisper.gif)
+
+<!-- ![genie beanie](https://i.imgur.com/myAHVLP.jpg) -->
+
+
 <!--
 **jsmithdev/jsmithdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
