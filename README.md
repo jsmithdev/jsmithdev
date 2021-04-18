@@ -13,5 +13,9 @@
   - [SOQE](https://marketplace.visualstudio.com/items?itemName=jamiesmiths.soqe) - Salesforce Object Query Extension (saké)
   - [Abyski](https://marketplace.visualstudio.com/items?itemName=jamiesmiths.abyski) - A turnt take on abyss + monokai (theme)
  
+ ---
+ 
+![Metrics](https://metrics.lecoq.io/jsmithdev?template=terminal&gists=1&lines=1&config.timezone=America%2FNew_York)
+
 
 <!-- ![genie beanie](https://i.imgur.com/myAHVLP.jpg) -->
