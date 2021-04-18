@@ -1,8 +1,6 @@
-## Hi there ![gif](https://github.githubassets.com/images/mona-whisper.gif)
+<img align="right"  src="https://github.githubassets.com/images/mona-whisper.gif" />
 
-![Metrics](https://metrics.lecoq.io/jsmithdev?template=classic&achievements=1&lines=1&isocalendar=1&followup=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=X&achievements.secrets=true&achievements.limit=14&config.timezone=America%2FNew_York)
-
----
+## Hey there, I'm Jamie 👋 
 
 Recents:
   - [https://component.land](https://component.land) - LWC app to distribute Salesforce components, soutions, etc
@@ -11,5 +9,8 @@ Recents:
   - [SOQE](https://marketplace.visualstudio.com/items?itemName=jamiesmiths.soqe) - Salesforce Object Query Extension (saké)
   - [Abyski](https://marketplace.visualstudio.com/items?itemName=jamiesmiths.abyski) - A turnt take on abyss + monokai (theme)
  
+ ---
+ 
+![Metrics](https://metrics.lecoq.io/jsmithdev?template=classic&achievements=1&lines=1&isocalendar=1&followup=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=X&achievements.secrets=true&achievements.limit=14&config.timezone=America%2FNew_York)
 
 <!-- ![genie beanie](https://i.imgur.com/myAHVLP.jpg) -->
