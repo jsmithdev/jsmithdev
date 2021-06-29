@@ -11,6 +11,6 @@ Recents:
  
  ---
  
-![Metrics](https://metrics.lecoq.io/jsmithdev?template=classic&achievements=1&lines=1&isocalendar=1&followup=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=X&achievements.secrets=true&achievements.limit=14&config.timezone=America%2FNew_York)
+[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsmithdev)](https://github.com/jsmithdev/github-readme-stats)
 
 <!-- ![genie beanie](https://i.imgur.com/myAHVLP.jpg) -->
