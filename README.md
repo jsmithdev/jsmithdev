@@ -3,7 +3,8 @@
 ## Hey there, I'm Jamie 👋 
 
 Recents:
-  - [https://component.land](https://component.land) - LWC app to distribute Salesforce components, soutions, etc
+  - [OurRSS](https://ourrss.herokuapp.com) - (current WIP) PWA to listen to podcasts / get ideas out
+  - [Component Land](https://component.land) - LWC app to distribute lightning web components, Salesforce soutions, etc
   - [dir2dir](https://www.npmjs.com/package/dir2dir) - CLI tool to copy a directory to a renamed directory while renaming matching child files
   - [img2txt](https://www.npmjs.com/package/imgtxt) - CLI tool to output text from an image
   - [SOQE](https://marketplace.visualstudio.com/items?itemName=jamiesmiths.soqe) - Salesforce Object Query Extension (saké)(vs code)
