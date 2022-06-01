@@ -3,7 +3,8 @@
 ## Hey there, I'm Jamie 👋 
 
 Recents:
-  - [Ourss](https://github.com/jsmithdev/ourss) - (current WIP) Swank podcast PWA @ <https://ourss.app>
+  - [generator-lwc-app](https://github.com/jsmithdev/generator-lwc-app) - A yeoman generator to easily create an LWC PWA
+  - [Ourss](https://github.com/jsmithdev/ourss) - WIP podcast PWA @ <https://ourss.app>
   - [Component Land](https://component.land) - LWC app to distribute lightning web components, Salesforce soutions, etc
   - [dir2dir](https://www.npmjs.com/package/dir2dir) - CLI tool to copy a directory to a renamed directory while renaming matching child files
   - [img2txt](https://www.npmjs.com/package/imgtxt) - CLI tool to output text from an image
