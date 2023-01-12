@@ -15,6 +15,6 @@ Recents:
  
  ---
  
-[![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsmithdev)](https://github.com/jsmithdev/github-readme-stats)
+[![Jamie's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jsmithdev)](https://github.com/jsmithdev/github-readme-stats)
 
 <!-- ![genie beanie](https://i.imgur.com/myAHVLP.jpg) -->
