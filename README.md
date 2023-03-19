@@ -1,6 +1,8 @@
+
 <img align="right"  src="https://github.githubassets.com/images/mona-whisper.gif" />
 
-## Hey there, I'm Jamie 🤘🤓
+## Hey there, I'm Jamie 🐶
+
 
 Recents:
   - [app-layout](https://github.com/jsmithdev/app-layout) - My app layout component(s) for LWC apps (current WIP)
@@ -14,7 +16,14 @@ Recents:
   - [Abyski](https://marketplace.visualstudio.com/items?itemName=jamiesmiths.abyski) - My take on abyss + monokai (vs code theme)
  
  ---
- 
+
+<p align="center">
+
+
+<img width="460" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jsmithdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+
 [![Jamie's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jsmithdev)](https://github.com/jsmithdev/github-readme-stats)
+
+</p>
 
 <!-- ![genie beanie](https://i.imgur.com/myAHVLP.jpg) -->
