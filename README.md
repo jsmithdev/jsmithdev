@@ -22,6 +22,8 @@ Recents:
 
 <img width="460" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=jsmithdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
 
+[![Jamie's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jsmithdev)](https://github.com/jsmithdev/github-readme-stats)
+
 </p>
 
 <!-- ![genie beanie](https://i.imgur.com/myAHVLP.jpg) -->
