@@ -17,17 +17,17 @@ Recents:
  
  ---
 
-<span align="center">
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsmithdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
 
-</span>
+</div>
 
-<span align="center">
+<!--<span align="center">
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jsmithdev&theme=dark&hide_border=true&showicons=true&count_private=true&show_icons=true"/>
 
-</span>
+</span>-->
 
 
 <!-- ![genie beanie](https://i.imgur.com/myAHVLP.jpg) -->
