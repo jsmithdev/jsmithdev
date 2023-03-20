@@ -1,8 +1,7 @@
 
-<img align="right"  src="https://github.githubassets.com/images/mona-whisper.gif" />
-
-## Hey there, I'm Jamie 🐶
-
+<div align="center">
+  <img src="header.svg" width="800" height="400">
+</div>
 
 Recents:
   - [app-layout](https://github.com/jsmithdev/app-layout) - My app layout component(s) for LWC apps (current WIP)
