@@ -4,7 +4,8 @@
 </div>
 
 Recents:
-  - [app-layout](https://github.com/jsmithdev/app-layout) - My app layout component(s) for LWC apps (current WIP)
+  - [sfmm](https://github.com/jsmithdev/sfmm) - My Salesforce Module Manager
+  - [app-layout](https://github.com/jsmithdev/app-layout) - My app layout component(s) for LWC apps
   - [generator-lwc-app](https://github.com/jsmithdev/generator-lwc-app) - My yeoman generator to easily create an LWC PWA
   - [Ourss](https://github.com/jsmithdev/ourss) - My podcast PWA @ <https://ourss.app> (my forever WIP 🙃)
   - [Reapo](https://github.com/jsmithdev/reapo) - My repository manager (linux)
