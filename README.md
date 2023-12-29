@@ -4,6 +4,7 @@
 </div>
 
 Recents:
+  - [rust-lamda-proxy](https://github.com/jsmithdev/rust-lambda-proxy) - A reverse proxy written in Rust for Lambda
   - [sfmm](https://github.com/jsmithdev/sfmm) - My Salesforce Module Manager
   - [app-layout](https://github.com/jsmithdev/app-layout) - My app layout component(s) for LWC apps
   - [generator-lwc-app](https://github.com/jsmithdev/generator-lwc-app) - My yeoman generator to easily create an LWC PWA
